@@ -1,0 +1,18 @@
+{
+  "name": "holosolo",
+  "version": "0.0.1",
+  "description": "Alex Kolb Solo Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "weather",
+    "ocean",
+    "tides",
+    "swell",
+    "wind"
+  ],
+  "author": "Alex Kolb",
+  "license": "ISC"
+}
